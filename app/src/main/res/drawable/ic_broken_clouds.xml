@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <!-- Back dark cloud -->
+    <path
+        android:fillColor="#1E1E1E"
+        android:pathData="M48,38H28c-3.3,0 -6,-2.7 -6,-6c0,-3.1 2.4,-5.7 5.4,-6c1.2,-3.5 4.5,-6 8.4,-6c4.3,0 7.9,3 8.8,7.1c0.5,-0.1 0.9,-0.1 1.4,-0.1c3.9,0 7,3.1 7,7C53,36.2 50.8,38 48,38z" />
+
+    <!-- Front light gray cloud -->
+    <path
+        android:fillColor="#EAEAEA"
+        android:pathData="M41,45H17c-4.4,0 -8,-3.6 -8,-8c0,-4.1 3.1,-7.5 7.1,-7.9C17.6,24.4 22,21 27.2,21c5.8,0 10.6,4.1 11.7,9.6c0.7,-0.1 1.4,-0.2 2.1,-0.2c4.4,0 8,3.6 8,8C49,42.1 45.4,45 41,45z" />
+</vector>
